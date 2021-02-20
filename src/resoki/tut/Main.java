@@ -6,7 +6,7 @@ public class Main extends JavaPlugin {
     @Override
     public void onEnable() {
         getLogger().info("Le plugin demarre");
-        getCommand("rtp").setExecutor(new CommandRtp());
+
     }
 
     @Override
