@@ -1,0 +1,8 @@
+name: PluginResoki
+author: Resoki
+main: resoki.tut.Main
+version: 0.0.1
+description: Plugin dev by Resoki.
+commands:
+  rtp:
+    aliases
